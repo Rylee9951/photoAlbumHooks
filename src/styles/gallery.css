@@ -1,0 +1,60 @@
+.galleryContainer {
+  width: 1200px;
+  margin: 20px auto;
+}
+
+.galleryHeader {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  background: red;
+  line-height: 150px;
+  font-size: 30px;
+}
+.mainContainer {
+  width: 100%;
+  display: flex;
+}
+.sidebar {
+  width: 200px;
+  height: 600px;
+  background: maroon;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.sidebar div {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 50px;
+}
+
+.sidebar div:hover {
+  background: red;
+}
+
+.picsContainer {
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.pic {
+  margin-top: 20px;
+}
+.pic img {
+  width: 300px;
+  height: 200px;
+}
+
+.pic div {
+  margin-top: -3px;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  background: red;
+}

@@ -1,0 +1,144 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "coverphoto": "https://images.pexels.com/photos/41162/moon-landing-apollo-11-nasa-buzz-aldrin-41162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Space"
+    },
+    {
+      "id": 2,
+      "coverphoto": "https://images.pexels.com/photos/814499/pexels-photo-814499.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Landscapes"
+    },
+    {
+      "id": 3,
+      "coverphoto": "https://images.pexels.com/photos/213399/pexels-photo-213399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Animals"
+    },
+    {
+      "id": 4,
+      "coverphoto": "https://images.pexels.com/photos/2505693/pexels-photo-2505693.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Art"
+    },
+    {
+      "id": 5,
+      "coverphoto": "https://images.pexels.com/photos/256520/pexels-photo-256520.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Education"
+    },
+    {
+      "id": 6,
+      "coverphoto": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Cars"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "name": "Can You See Me",
+      "url": "https://images.pexels.com/photos/355935/pexels-photo-355935.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "name": "Moon",
+      "url": "https://images.pexels.com/photos/47367/full-moon-moon-bright-sky-47367.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "name": "On Fire",
+      "url": "https://images.pexels.com/photos/39649/solar-flare-sun-eruption-energy-39649.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 4,
+      "name": "At the Lake",
+      "url": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 5,
+      "name": "Waterfall",
+      "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 6,
+      "name": "In the Desert",
+      "url": "https://images.pexels.com/photos/1476880/pexels-photo-1476880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 7,
+      "name": "Keep swimming",
+      "url": "https://images.pexels.com/photos/2570524/pexels-photo-2570524.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 8,
+      "name": "Cheetah",
+      "url": "https://images.pexels.com/photos/87403/cheetah-leopard-animal-big-87403.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 9,
+      "name": "The King is here",
+      "url": "https://images.pexels.com/photos/41315/africa-african-animal-cat-41315.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 10,
+      "name": "Skull",
+      "url": "https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 11,
+      "name": "I See You",
+      "url": "https://images.pexels.com/photos/2130793/pexels-photo-2130793.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 12,
+      "name": "Don't Forget",
+      "url": "https://images.pexels.com/photos/532820/pexels-photo-532820.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 13,
+      "name": "Study",
+      "url": "https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 14,
+      "name": "Think",
+      "url": "https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 15,
+      "name": "Pick up a book",
+      "url": "https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 16,
+      "name": "Cadillac",
+      "url": "https://images.pexels.com/photos/248687/pexels-photo-248687.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 17,
+      "name": "Muscle",
+      "url": "https://images.pexels.com/photos/72581/pexels-photo-72581.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 18,
+      "name": "Lambo",
+      "url": "https://images.pexels.com/photos/39855/lamborghini-brno-racing-car-automobiles-39855.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "albumId": 6
+    }
+  ]
+}
